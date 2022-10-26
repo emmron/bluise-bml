@@ -2,8 +2,8 @@
   "title": "BML Ventures",
   "titleTemplate": "BMGS",
   "welcomeText": "# BML Ventures",
-  "logo": "/images/uploads/logo.svg",
-  "icon": "/images/uploads/logo.png",
+  "logo": "/images/uploads/bmlv-logo.png",
+  "icon": "/images/uploads/bmlv-logo.png",
   "loadingColor": "#0b3765",
   "seoDescription": "A quickstart for Nuxt & Netlify CMS",
   "seoMetaImage": ""
